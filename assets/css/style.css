@@ -1,0 +1,48 @@
+
+/*body{
+    text-align: left
+}*/
+
+header{
+   border-bottom: 20px;
+   margin-top: 0;
+   margin-bottom: 20px;
+   background-color: aqua;
+    
+}
+
+#supernav{
+    width: 900px;
+    margin: 0 auto;
+
+}
+
+#navlinks{
+    float: right;
+    width: 250;
+    margin-top: 0px;
+
+}
+
+#banner {
+    /*background: url(baner.jpg);*/
+    width: 100px;
+    height: 500px;
+    position: fixed;
+    top: 100px;
+    background: #707070;
+}
+
+#content {
+    width: 100px;
+    position: relative;
+    top: 400px;
+    background: #ebebeb;
+    height: 1500px;
+}
+#contact-info{
+    float: right;
+}
+#mmainbio-info{
+    float: left;
+}
